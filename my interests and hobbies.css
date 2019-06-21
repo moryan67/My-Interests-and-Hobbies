@@ -1,0 +1,73 @@
+/* Primary document selectors and rules */
+#bodycontent{
+	 width:800px;t
+	 text-align:center;
+ }
+ 
+ #rightsidebar{
+	 float:right;
+	 width:200px;
+	 border:3px dotted white;
+ }
+ #leftsidebar{
+float:left;
+width:400px;
+border:3px dotted white;
+}
+
+#allbodycontent{
+width: 800 px;
+margin=left:auto;
+margin-right:auto;
+}
+#fixedimage{
+	position:fixed;
+	top:350px;
+	left:opx;
+}
+#mainbody{
+	margin-left:350px;
+	border:2px solid white;
+}
+body { 
+	background-color: #3cb371;
+ 	color: blue;
+	font-family: Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium; 
+}
+h1 {
+	font-size: 150%; 
+	container 
+	text-align: center;<h1 style="background-color:3cb371;</h1>
+}
+h2 {
+	font-size: 120%;
+}
+/* header area */	
+#header {
+	height: 150px;
+	background-color: #3cb371(9, 100%, 64%, 0.6);
+	background-image: url(./images/header2.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	font-size: 200%;
+}
+#footer{
+	clear:both;
+	border:2px dashed black;
+	<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 200%;
+}
+}
